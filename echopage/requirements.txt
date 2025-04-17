@@ -1,0 +1,6 @@
+beautifulsoup4
+requests
+edge-tts
+python-dotenv
+ffmpeg-python
+click
